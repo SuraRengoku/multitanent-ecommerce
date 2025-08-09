@@ -98,6 +98,9 @@ export default function Home() {
           Go to nextjs.org →
         </a>
       </footer>
+      <p className="text-rose-500 invalid-class">
+        Hello world
+      </p>
     </div>
   );
 }
